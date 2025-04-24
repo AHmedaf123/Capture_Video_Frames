@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # In order to Capture Video Frames
 ##### Execute
@@ -217,3 +218,6 @@ We deploy 3 digit version strings in a form of 'Major.Minor.Revision' scheme.
 ## License
 
 This library is licensed under the Apache 2.0 License.
+=======
+# Capture_Video_Frames
+>>>>>>> 32068045b5f1c6f29c71a2ba4f225c4e57f77d62
